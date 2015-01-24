@@ -29,6 +29,8 @@ console.log(containsTrailingWhitespace);
 
 ## Release History
 
+- v0.1.0 (2015-01-24): Initial release.
+
 ## License
 
 detect-trailing-whitespace is licensed under the BSD 2-clause license, subject to additional terms. See [LICENSE](./LICENSE) for the full license text.
