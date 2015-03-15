@@ -29,6 +29,8 @@ console.log(containsTrailingWhitespace);
 
 ## Release History
 
+This project follows [Semantic Versioning 2](http://semver.org/).
+
 - v0.1.0 (2015-01-24): Initial release.
 
 ## License
