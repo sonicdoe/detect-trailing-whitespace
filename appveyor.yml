@@ -21,9 +21,6 @@ environment:
     - nodejs_version: "0.12"
     - nodejs_version: "0.10"
     - nodejs_version: "0.8"
-    - nodejs_version: "1.0"
 
 matrix:
-  allow_failures:
-    - nodejs_version: "1.0"
   fast_finish: true
