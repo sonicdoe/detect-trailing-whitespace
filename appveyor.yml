@@ -7,8 +7,6 @@ init:
 
 install:
   - ps: Install-Product node $env:nodejs_version
-  - SET PATH=%APPDATA%\npm;%PATH%
-  - npm install -g npm
   - npm install
 
 test_script:
