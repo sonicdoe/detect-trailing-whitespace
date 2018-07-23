@@ -2,7 +2,7 @@
 	"name": "detect-trailing-whitespace",
 	"version": "0.1.0",
 	"author": "Jakob Krigovsky <jakob@krigovsky.com>",
-	"description": "Detect trailing whitespace.",
+	"description": "Detect trailing whitespace",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/sonicdoe/detect-trailing-whitespace.git"
