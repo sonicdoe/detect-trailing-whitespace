@@ -1,12 +1,7 @@
 {
 	"name": "detect-trailing-whitespace",
-	"version": "0.1.0",
-	"author": "Jakob Krigovsky <jakob.krigovsky@gmail.com>",
-	"description": "Detect trailing whitespace.",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/SonicHedgehog/detect-trailing-whitespace.git"
-	},
+	"version": "1.0.0",
+	"description": "Detect trailing whitespace",
 	"keywords": [
 		"detect",
 		"trailing",
@@ -14,14 +9,24 @@
 		"whitespace"
 	],
 	"license": "BSD-2-Clause",
+	"repository": "sonicdoe/detect-trailing-whitespace",
+	"author": "Jakob Krigovsky <jakob@krigovsky.com>",
 	"files": [
-		"index.js",
-		"LICENSE"
+		"index.js"
 	],
 	"scripts": {
-		"test": "mocha"
+		"test": "xo && mocha"
 	},
 	"devDependencies": {
-		"mocha": "^2.1.0"
+		"mocha": "^5.2.0",
+		"xo": "^0.21.1"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"xo": {
+		"envs": [
+			"mocha"
+		]
 	}
 }
