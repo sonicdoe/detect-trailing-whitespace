@@ -1,7 +1,7 @@
 {
 	"name": "detect-trailing-whitespace",
 	"version": "0.1.0",
-	"author": "Jakob Krigovsky <jakob.krigovsky@gmail.com>",
+	"author": "Jakob Krigovsky <jakob@krigovsky.com>",
 	"description": "Detect trailing whitespace.",
 	"repository": {
 		"type": "git",
