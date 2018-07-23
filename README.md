@@ -29,4 +29,7 @@ console.log(containsTrailingWhitespace);
 
 This project follows [Semantic Versioning 2](https://semver.org).
 
+- v1.0.0 (2017-07-23):
+  - Add support for Node.js v6, v8, and v10.
+  - Drop support for Node.js versions older than v6.
 - v0.1.0 (2015-01-24): Initial release.
