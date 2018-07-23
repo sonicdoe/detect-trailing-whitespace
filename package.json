@@ -5,7 +5,7 @@
 	"description": "Detect trailing whitespace.",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/SonicHedgehog/detect-trailing-whitespace.git"
+		"url": "https://github.com/sonicdoe/detect-trailing-whitespace.git"
 	},
 	"keywords": [
 		"detect",

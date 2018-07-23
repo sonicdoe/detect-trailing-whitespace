@@ -1,8 +1,8 @@
 # detect-trailing-whitespace
 
 [![Node.js package](http://img.shields.io/npm/v/detect-trailing-whitespace.svg)](https://www.npmjs.com/package/detect-trailing-whitespace)
-[![Linux Build Status](http://img.shields.io/travis/SonicHedgehog/detect-trailing-whitespace/develop.svg)](https://travis-ci.org/SonicHedgehog/detect-trailing-whitespace)
-[![Windows Build Status](http://img.shields.io/appveyor/ci/SonicHedgehog/detect-trailing-whitespace.svg)](https://ci.appveyor.com/project/SonicHedgehog/detect-trailing-whitespace)
+[![Linux Build Status](http://img.shields.io/travis/sonicdoe/detect-trailing-whitespace/develop.svg)](https://travis-ci.org/sonicdoe/detect-trailing-whitespace)
+[![Windows Build Status](http://img.shields.io/appveyor/ci/sonicdoe/detect-trailing-whitespace.svg)](https://ci.appveyor.com/project/sonicdoe/detect-trailing-whitespace)
 
 Detect trailing whitespace.
 
